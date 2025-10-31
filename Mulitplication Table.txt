@@ -1,0 +1,8 @@
+// Welcome them
+// Create a new Int
+// We create a new for loop where we add 1 to count untill we get to 12 and we start at 1
+// We print out to user the number
+// We add a space to make it look clean so its not all on same line
+// We repeat the process
+// We now multiply count by 2 
+// --------------- We repeat same thing as earlier all the way to 12--------------------------
